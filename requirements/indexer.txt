@@ -1,0 +1,4 @@
+-r base.txt
+
+web3==6.17.0
+websockets==12.0
